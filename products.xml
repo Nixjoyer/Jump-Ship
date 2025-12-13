@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory source="Jump Ship Quantum Acquisitions">
+  <products>
+    <product id="1">
+      <name>Antimatter Containment Cell</name>
+      <category>Exotic Matter</category>
+      <price>₢4,200,000</price>
+      <image>antimatter_containment_cell.png</image>
+      <rarity>0.001g contained</rarity>
+    </product>
+    <product id="2">
+      <name>Temporal Stabilizer</name>
+      <category>Chronotech</category>
+      <price>₢18,900,000</price>
+      <image>temporal_stabilizer.png</image>
+      <rarity>Bends local time</rarity>
+    </product>
+    <product id="3">
+      <name>Quantum Entanglement Pair</name>
+      <category>Communication</category>
+      <price>₢3,400,000</price>
+      <image>quantum_entanglement_pair.png</image>
+      <rarity>Infinite range</rarity>
+    </product>
+    <product id="4">
+      <name>Dark Matter Sample</name>
+      <category>Exotic Matter</category>
+      <price>₢56,000,000</price>
+      <image>dark_matter_sample.png</image>
+      <rarity>27% of universe</rarity>
+    </product>
+    <product id="5">
+      <name>Dyson Sphere Blueprint</name>
+      <category>Megastructure</category>
+      <price>₢125,000,000</price>
+      <image>dyson_sphere.png</image>
+      <rarity>Complete plans</rarity>
+    </product>
+    <product id="6">
+      <name>Zero-Point Energy Module</name>
+      <category>Power Source</category>
+      <price>₢42,000,000</price>
+      <image>zero_point_energy_module.png</image>
+      <rarity>Infinite output</rarity>
+    </product>
+    <product id="7">
+      <name>Exotic Matter Crystal</name>
+      <category>Warp Core Material</category>
+      <price>₢98,500,000</price>
+      <image>exotic_matter_crystal.png</image>
+      <rarity>Negative mass</rarity>
+    </product>
+    <product id="8">
+      <name>Higgs Field Manipulator</name>
+      <category>Mass Alteration</category>
+      <price>₢215,900,000</price>
+      <image>higgs_field_manipulator.png</image>
+      <rarity>Prototype unit</rarity>
+    </product>
+  </products>
+
+  <stats>
+    <stat value="₢8.4T" label="Total Value" />
+    <stat value="145+" label="Impossible Items" />
+    <stat value="99.8%" label="Success Rate" />
+    <stat value="24/7" label="Support" />
+  </stats>
+</inventory>
+
