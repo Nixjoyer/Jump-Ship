@@ -27,7 +27,8 @@ cd jump-ship
 
 Since this project requires a server to function correctly (due to potential CORS restrictions and proper asset loading), you'll need to run it through a local web server. Here are a few common methods:
 
-* Using Node.js `http-server` (Recommended for development):
+
+* Using Node.js `http-server`:
 
 If you have Node.js and npm installed, you can use the `http-server` package:
 
@@ -35,6 +36,7 @@ If you have Node.js and npm installed, you can use the `http-server` package:
 npm install -g http-server
 http-server . -p 8080
 ```
+
 
 * Using Python's Built-in HTTP Server:
 
